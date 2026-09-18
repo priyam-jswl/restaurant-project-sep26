@@ -186,7 +186,7 @@
 
             { cat: "ambience", src: "https://images.unsplash.com/photo-1552566626-52f8b828add9?auto=format&fit=crop&w=600&q=80", alt: "Warm restaurant ambience" },
 
-            { cat: "food", src: "/Images/biryani.avif" , alt: "Biryani served with raita" },
+            { cat: "food", src: "./Images/biryani.avif" , alt: "Biryani served with raita" },
 
             { cat: "celebrations", src: "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?auto=format&fit=crop&w=600&q=80", alt: "Table set for a celebration" },
 
